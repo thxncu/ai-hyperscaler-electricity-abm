@@ -1,0 +1,18 @@
+# Core scientific stack
+numpy>=1.24
+pandas>=2.0
+scipy>=1.10
+matplotlib>=3.7
+
+# Statistical inference
+statsmodels>=0.14
+
+# Agent-based modeling framework
+mesa>=3.0
+
+# Optional: progress bars during long simulations
+tqdm>=4.65
+
+# Optional: interactive notebook execution
+jupyterlab>=4.0
+ipykernel>=6.25
